@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <com.mupadhyay.coloredlinetextview.ColoredLineTextView
+                android:id="@+id/textView1"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:text="@string/example"
+                android:textColor="@android:color/black"
+                app:lineColor="#E91E63"
+                app:lineNumber="1" />
+
+            <com.mupadhyay.coloredlinetextview.ColoredLineTextView
+                android:id="@+id/textView2"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:text="@string/example"
+                android:textColor="@android:color/black"
+                app:lineColor="#03A9F4"
+                app:lineNumber="2" />
+
+            <com.mupadhyay.coloredlinetextview.ColoredLineTextView
+                android:id="@+id/textView3"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:text="@string/example"
+                android:textColor="@android:color/black"
+                app:lineColor="#4CAF50"
+                app:lineNumber="3" />
+
+            <com.mupadhyay.coloredlinetextview.ColoredLineTextView
+                android:id="@+id/textView4"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:text="@string/example"
+                android:textColor="@android:color/black"
+                app:lineColor="#4F000000"
+                app:lineNumber="6" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,3 @@
+rootProject.name='colored-line-textview-root'
+include ':colored-line-textview-example'
+include ':colored-line-textview'
