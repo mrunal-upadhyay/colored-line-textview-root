@@ -1,5 +1,5 @@
 
-An android custom TextView that allows to change the color of a specific line in a TextView
+An Android Custom TextView that allows to change the color of a specific line in a TextView
 
 ![Colored Line TextView](image.png )
 
