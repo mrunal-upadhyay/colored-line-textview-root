@@ -1,7 +1,6 @@
+An Android Custom TextView that allows to change the color of a specific line in a TextView
 
-[![License](https://img.shields.io/badge/license-Apache%202-green.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 ![Colored Line TextView](image.png )
-An android custom TextView that allows to change the color of a specific line in a TextView
 
 Usage
 -----
