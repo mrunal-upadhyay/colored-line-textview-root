@@ -1,4 +1,4 @@
-package com.mupadhyay.coloredlinetextview
+package com.mrunalupadhyay.coloredlinetextview
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

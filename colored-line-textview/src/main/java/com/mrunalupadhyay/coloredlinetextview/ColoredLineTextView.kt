@@ -1,4 +1,4 @@
-package com.mupadhyay.coloredlinetextview
+package com.mrunalupadhyay.coloredlinetextview
 
 import android.content.Context
 import android.graphics.Canvas

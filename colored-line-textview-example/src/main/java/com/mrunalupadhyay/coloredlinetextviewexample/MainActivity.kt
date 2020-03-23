@@ -1,4 +1,4 @@
-package com.mupadhyay.coloredlinetextviewexample
+package com.mrunalupadhyay.coloredlinetextviewexample
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

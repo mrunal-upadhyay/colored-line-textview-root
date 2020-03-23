@@ -1,4 +1,4 @@
-package com.mupadhyay.coloredlinetextviewexample
+package com.mrunalupadhyay.coloredlinetextviewexample
 
 import org.junit.Test
 

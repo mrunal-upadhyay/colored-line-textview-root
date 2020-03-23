@@ -20,7 +20,7 @@
             android:gravity="center"
             android:orientation="vertical">
 
-            <com.mupadhyay.coloredlinetextview.ColoredLineTextView
+            <com.mrunalupadhyay.coloredlinetextview.ColoredLineTextView
                 android:id="@+id/textView1"
                 android:layout_width="300dp"
                 android:layout_height="wrap_content"
@@ -30,7 +30,7 @@
                 app:lineColor="#E91E63"
                 app:lineNumber="1" />
 
-            <com.mupadhyay.coloredlinetextview.ColoredLineTextView
+            <com.mrunalupadhyay.coloredlinetextview.ColoredLineTextView
                 android:id="@+id/textView2"
                 android:layout_width="300dp"
                 android:layout_height="wrap_content"
@@ -40,7 +40,7 @@
                 app:lineColor="#03A9F4"
                 app:lineNumber="2" />
 
-            <com.mupadhyay.coloredlinetextview.ColoredLineTextView
+            <com.mrunalupadhyay.coloredlinetextview.ColoredLineTextView
                 android:id="@+id/textView3"
                 android:layout_width="300dp"
                 android:layout_height="wrap_content"
@@ -50,7 +50,7 @@
                 app:lineColor="#4CAF50"
                 app:lineNumber="3" />
 
-            <com.mupadhyay.coloredlinetextview.ColoredLineTextView
+            <com.mrunalupadhyay.coloredlinetextview.ColoredLineTextView
                 android:id="@+id/textView4"
                 android:layout_width="300dp"
                 android:layout_height="wrap_content"
